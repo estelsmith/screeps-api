@@ -12,7 +12,7 @@ Add the library to your bower.json dependencies:
 ```json
 {
     "dependencies": {
-        "estelsmith/screeps-api": "0.0.1"
+        "estelsmith-screeps-api": "0.0.1"
     }
 }
 ```
