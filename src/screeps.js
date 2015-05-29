@@ -94,3 +94,21 @@ var
     STRUCTURE_PORTAL = 'portal',
     STRUCTURE_CONTROLLER = 'controller'
 ;
+
+/*
+ *******************
+ * Color Constants *
+ *******************
+ */
+var
+    COLOR_RED = 'red',
+    COLOR_PURPLE = 'purple',
+    COLOR_BLUE = 'blue',
+    COLOR_CYAN = 'cyan',
+    COLOR_GREEN = 'green',
+    COLOR_YELLOW = 'yellow',
+    COLOR_ORANGE = 'orange',
+    COLOR_BROWN = 'brown',
+    COLOR_GREY = 'grey',
+    COLOR_WHITE = 'white'
+;
