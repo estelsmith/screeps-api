@@ -47,3 +47,19 @@ var
     FIND_MY_SPAWNS = 112,
     FIND_HOSTILE_SPAWNS = 113
 ;
+
+/*
+ ***********************
+ * Direction Constants *
+ ***********************
+ */
+var
+    TOP = 1,
+    TOP_RIGHT = 2,
+    RIGHT = 3,
+    BOTTOM_RIGHT = 4,
+    BOTTOM = 5,
+    BOTTOM_LEFT = 6,
+    LEFT = 7,
+    TOP_LEFT = 8
+;
