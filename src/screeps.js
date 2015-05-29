@@ -92,7 +92,8 @@ var
     STRUCTURE_WALL = 'constructedWall',
     STRUCTURE_KEEPER_LAIR = 'keeperLair',
     STRUCTURE_PORTAL = 'portal',
-    STRUCTURE_CONTROLLER = 'controller'
+    STRUCTURE_CONTROLLER = 'controller',
+    STRUCTURE_LINK = 'link'
 ;
 
 /*
