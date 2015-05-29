@@ -63,3 +63,18 @@ var
     LEFT = 7,
     TOP_LEFT = 8
 ;
+
+/*
+ ***********************
+ * Body Part Constants *
+ ***********************
+ */
+var
+    MOVE = 'move',
+    WORK = 'work',
+    CARRY = 'carry',
+    ATTACK = 'attack',
+    RANGED_ATTACK = 'ranged_attack',
+    TOUGH = 'tough',
+    HEAL = 'heal'
+;
