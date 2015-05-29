@@ -2,7 +2,7 @@ var Creep = function () {};
 
 Creep.prototype = {
     /**
-     * @type {MOVE|WORK|CARRY|ATTACK|RANGED_ATTACK|HEAL|TOUGH}[]
+     * @type Array<MOVE|WORK|CARRY|ATTACK|RANGED_ATTACK|HEAL|TOUGH>
      */
     body: null,
 
