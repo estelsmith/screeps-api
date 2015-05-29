@@ -1,0 +1,15 @@
+{
+    "name": "screeps-api",
+    "version": "0.0.1",
+    "authors": [
+        "Estel Smith <estel.smith@gmail.com>"
+    ],
+    "description": "Provides IDE type-hinting for the Screeps API",
+    "main": "src/screeps.js",
+    "keywords": [
+        "screeps",
+        "api",
+        "typehint"
+    ],
+    "license": "MIT"
+}
