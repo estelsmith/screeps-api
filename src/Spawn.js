@@ -57,9 +57,9 @@ Spawn.prototype = {
     room: null,
 
     /**
-     * @type string
+     * @type STRUCTURE_SPAWN
      */
-    structureType: '',
+    structureType: STRUCTURE_SPAWN,
 
     /**
      * @type object|null
