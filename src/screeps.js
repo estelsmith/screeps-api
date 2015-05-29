@@ -78,3 +78,19 @@ var
     TOUGH = 'tough',
     HEAL = 'heal'
 ;
+
+/*
+ ****************************
+ * Structure Type Constants *
+ ****************************
+ */
+var
+    STRUCTURE_EXTENSION = 'extension',
+    STRUCTURE_RAMPART = 'rampart',
+    STRUCTURE_ROAD = 'road',
+    STRUCTURE_SPAWN = 'spawn',
+    STRUCTURE_WALL = 'constructedWall',
+    STRUCTURE_KEEPER_LAIR = 'keeperLair',
+    STRUCTURE_PORTAL = 'portal',
+    STRUCTURE_CONTROLLER = 'controller'
+;
