@@ -112,3 +112,15 @@ var
     COLOR_GREY = 'grey',
     COLOR_WHITE = 'white'
 ;
+
+/*
+ ***********************
+ * Room Mode Constants *
+ ***********************
+ */
+var
+    MODE_SIMULATION = 'simulation',
+    MODE_SURVIVAL = 'survival',
+    MODE_ARENA = 'arena',
+    MODE_WORLD = 'world'
+;
